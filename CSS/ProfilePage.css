@@ -1,0 +1,29 @@
+header{
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+
+#ProfInfo{
+  margin: auto;
+  margin-top: 100px;
+  width: 20%;
+}
+
+#profimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  border: 10px solid black;
+}
+
+#person{
+  margin-top: 30px;
+}
+
+#person ul{
+  list-style-type: none;
+  text-align: center;
+}

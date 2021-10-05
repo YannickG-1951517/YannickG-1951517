@@ -1,0 +1,31 @@
+header{
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.content{
+  background: white;
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+/*
+#wrapper{
+  margin: auto;
+  width: 700px;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+}
+
+#text-input{
+  margin: 80px;
+  text-align: center;
+}
+
+#text-input #login{
+  padding: 20px;
+  font-weight: bold;
+  font-size: 300%;
+}
+-->
